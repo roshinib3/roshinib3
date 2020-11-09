@@ -4,7 +4,7 @@
 
 🔬 Researching artificial intelligence applications in smart healthcare
 
-💻 Current Intern @ [Point72 Asset Management](https://www.point72.com/); Previously @ [Fannie Mae](https://www.fanniemae.com/), [Children's National](https://childrensnational.org/), [Bluebonnet Data](https://www.bluebonnetdata.org/), and more
+💻 Current Intern @ [Point72 Asset Management](https://www.point72.com/); Previously @ [Fannie Mae](https://www.fanniemae.com/), [Children's National](https://childrensnational.org/), [Bluebonnet Data](https://www.bluebonnetdata.org/),& more
 
 📫 [Email](roshinib@princeton.edu), [LinkedIn](https://www.linkedin.com/in/roshinibala/), [Instagram](https://www.instagram.com/roshinib3/)
 <!--
