@@ -2,9 +2,11 @@
 
 🎓 Princeton '22, Operations Research & Financial Engineering (Machine Learning) + Minors in Health Policy and Cognitive Science
 
-🔬 Researching artificial intelligence applications in smart healthcare
+🔬 Researching artificial intelligence applications (neural-symbolic computing) in smart healthcare
 
-💻 Current Intern @ [Point72 Asset Management](https://www.point72.com/); Previously @ [Fannie Mae](https://www.fanniemae.com/), [Children's National](https://childrensnational.org/), [Bluebonnet Data](https://www.bluebonnetdata.org/), etc.
+💻 Intern @ [Point72 Asset Management](https://www.point72.com/); Previously @ [Fannie Mae](https://www.fanniemae.com/), [Children's National](https://childrensnational.org/), [Bluebonnet Data](https://www.bluebonnetdata.org/), etc.
+
+💭 Currently interested in sustainable/plant-based food startups, inclusive beauty technology, and medical devices
 
 📫 Please reach out by [Email](mailto:roshinib@princeton.edu), [LinkedIn](https://www.linkedin.com/in/roshinibala/), [Instagram](https://www.instagram.com/roshinib3/)
 <!--
