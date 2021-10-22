@@ -2,7 +2,7 @@
 
 🎓 Princeton '22, Operations Research & Financial Engineering (Machine Learning) + Minors in Health Policy and Cognitive Science
 
-🔬 Researching artificial intelligence applications (neural-symbolic computing) in smart healthcare
+🔬 Researching artificial intelligence applications in healthcare
 
 💻 Intern @ [Point72 Asset Management](https://www.point72.com/); Previously @ [Fannie Mae](https://www.fanniemae.com/), [Children's National](https://childrensnational.org/), [Bluebonnet Data](https://www.bluebonnetdata.org/), etc.
 
