@@ -1,18 +1,17 @@
-![Hello!](text.gif)
+💻 Healthcare Analyst @ [Barclays](https://www.cib.barclays/)
 
-🎓 Princeton '22, Operations Research & Financial Engineering (Machine Learning) + Minors in Health Policy and Cognitive Science
+🎓 Princeton '22 with an academic background in applied math + machine learning, public health, and tech policy
 
-🔬 Researching artificial intelligence applications in healthcare
+🔬 Research on AI for medical diagnosis, randomized controlled trials, and clinical decision making
 
-💻 Intern @ [Point72 Asset Management](https://www.point72.com/); Previously @ [Fannie Mae](https://www.fanniemae.com/), [Children's National](https://childrensnational.org/), [Bluebonnet Data](https://www.bluebonnetdata.org/), etc.
+💭 Currently interested in med + consumer tech and sustainable + plant-based food startups
 
-💭 Currently interested in sustainable/plant-based food startups, inclusive beauty technology, and medical devices
-
-📫 Please reach out by [Email](mailto:roshinib@princeton.edu), [LinkedIn](https://www.linkedin.com/in/roshinibala/), [Instagram](https://www.instagram.com/roshinib3/)
+📫 Please reach out: [Email](mailto:roshinib@alumni.princeton.edu) at roshinib@alumni.princeton.edu, [LinkedIn](https://www.linkedin.com/in/roshinibala/), [Instagram](https://www.instagram.com/roshinib3/), [Twitter](https://twitter.com/roshinib_)
 <!--
 **roshinib3/roshinib3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Intern @ Point72 Asset Management; Previously @ Fannie Mae, Children's National, Bluebonnet Data, etc.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
